@@ -10,6 +10,8 @@ namespace TesteConsoleApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Exemplo de utilização");
+            Console.ReadKey();
         }
     }
 }
