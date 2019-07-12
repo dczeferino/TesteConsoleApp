@@ -11,6 +11,7 @@ namespace TesteConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Exemplo de utilização");
+            Console.WriteLine("Exemplo de utilização e alteração commit");
             Console.ReadKey();
         }
     }
